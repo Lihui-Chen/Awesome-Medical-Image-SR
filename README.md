@@ -4,7 +4,7 @@ We collected many awesome medical image SR methods and common benchmarks in this
 
 On the way...
 
-##1. Medical image SR before deep learning
+## 1. Medical image SR before deep learning
 ### MRI image SR
 [1]  T. M. Lehmann, C. Gonner, K. Spitzer, **Addendum: B-spline interpolation in medical image processing**, IEEE T. Med. Imaging , 2001, ([paper](https://ieeexplore.ieee.org/abstract/document/932749), [codes])
 
