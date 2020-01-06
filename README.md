@@ -4,8 +4,8 @@ We collected many awesome medical image SR methods and common benchmarks in this
 
 On the way...
 
-## 1. Medical image SR before deep learning
-
+##1. Medical image SR before deep learning
+### MRI image SR
 [1]  T. M. Lehmann, C. Gonner, K. Spitzer, **Addendum: B-spline interpolation in medical image processing**, IEEE T. Med. Imaging , 2001, ([paper](https://ieeexplore.ieee.org/abstract/document/932749), [codes])
 
 [2] Carmi, E., Liu, S., Alon, N., Fiat, A., & Fiat, D. (2006). **Resolution enhancement in MRI**. *Magnetic resonance imaging*, *24*(2), 133-154. ([paper](https://www.sciencedirect.com/science/article/pii/S0730725X0500295X), [codes])
@@ -14,9 +14,9 @@ On the way...
 
 [4] Shi, F., Cheng, J., Wang, L., Yap, P., & Shen, D. (2015). LRTV: MR Image Super-Resolution With Low-Rank and Total Variation Regularizations. *IEEE Transactions on Medical Imaging*, *34*(12), 2459–2466.([paper]( https://doi.org/10.1109/TMI.2015.2437894), [codes]( https://www.jian-cheng.org/software.html ))
 
-## 2. CNN-based Image SR
+## 2. CNN-based Medical Image SR
 
-## 3. GAN-based Image SR
+## 3. GAN-based Medical Image SR
 
 ## 4. Common Benchmarks
 
