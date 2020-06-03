@@ -1,6 +1,6 @@
 # Awesome Medical Image SR
 
-We collected many awesome medical image SR methods and common benchmarks in this repository. 
+We collected many awesome medical image super-resolution (SR) methods and common benchmarks for medical image SR in this repository. 
 
 
 
