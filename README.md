@@ -31,7 +31,7 @@ Cherukuri, V., Guo, T., Schiff, S. J., & Monga, V. (2020). Deep MR Brain Image S
 
 Liu, K., Ma, Y., Xiong, H., Yan, Z., Zhou, Z., Fang, P., & Liu, C. (2019). **Medical image super-resolution method based on dense blended attention network.**, arXiv, 2019,. ([paper](https://arxiv.org/pdf/1905.05084v1.pdf))
 
-L. Chen. , X. Yang. ,  G. Jeon. , M. Anisetti. , & K. Liu,  (2020). **A trusted medical image super-resolution method based on feedback adaptive weighted dense network.**, *Artificial Intelligence in Medicine*. ,2020,.([paper](https://www.sciencedirect.com/science/article/pii/S0933365719310073),[codes]())
+L. Chen. , X. Yang. ,  G. Jeon. , M. Anisetti. , & K. Liu,  (2020). **A trusted medical image super-resolution method based on feedback adaptive weighted dense network.**, *Artificial Intelligence in Medicine*. ,2020,.([paper](https://www.sciencedirect.com/science/article/pii/S0933365719310073),[codes](https://github.com/Huises/FAWDN))
 
 
 
