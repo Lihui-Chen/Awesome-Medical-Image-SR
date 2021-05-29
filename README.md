@@ -40,7 +40,7 @@ We collected many awesome medical image super-resolution (SR) methods and common
 
 [9] Cherukuri, V., Guo, T., Schiff, S. J., & Monga, V. (2019). Deep MR Brain Image Super-Resolution Using Spatio-Structural Priors. IEEE Transactions on Image Processing, 29, 1368-1383.([paper](https://ieeexplore.ieee.org/abstract/document/8848868))
 
-[10] L. Chen. , X. Yang. ,  G. Jeon. , M. Anisetti. , & K. Liu,  (2020). **A trusted medical image super-resolution method based on feedback adaptive weighted dense network.**, *Artificial Intelligence in Medicine*. ,2020,.([paper](https://www.sciencedirect.com/science/article/pii/S0933365719310073),[codes](https://github.com/Huises/FAWDN))
+[10] L. Chen. , X. Yang. ,  G. Jeon. , M. Anisetti. , & K. Liu,  (2020). **A trusted medical image super-resolution method based on feedback adaptive weighted dense network.**, *Artificial Intelligence in Medicine*. ,2020,.([paper](https://www.sciencedirect.com/science/article/pii/S0933365719310073),[codes](https://github.com/Lihui-Chen/FAWDN))
 
 [11] Q. Lyu, H. Shan and G. Wang, "MRI Super-Resolution With Ensemble Learning and Complementary Priors," in IEEE Transactions on Computational Imaging, vol. 6, pp. 615-624, 2020, doi: 10.1109/TCI.2020.2964201.([paper](https://ieeexplore.ieee.org/document/8950304))
 
